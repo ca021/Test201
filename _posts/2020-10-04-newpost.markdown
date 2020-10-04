@@ -4,7 +4,7 @@ title:  "The Royal Mile"
 date:   2020-10-04 13:49:20 -0400
 categories:
 ---
-Edinburgh
+The Royal Mile
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
